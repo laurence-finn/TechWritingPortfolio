@@ -1,4 +1,4 @@
-# TechWritingPortfolio
+# Laurence Finn's Technical Writing Portfolio
 This is my portfolio of technical writing samples and other examples of my work. It includes the following items:
 
 ### Anomaly Report-EXP
