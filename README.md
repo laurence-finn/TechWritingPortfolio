@@ -1,8 +1,8 @@
 # Laurence Finn's Technical Writing Portfolio
 This is my portfolio of technical writing samples and other examples of my work. It includes the following items:
 
-### Anomaly Report-EXP
-This is a sample Anomaly Report I wrote about a fictional space program called the Europa Exploration Program (EXP). It details an anomaly scenario with an executive summary, project background, and timeline of the anomaly. (All the details in this report are fictional.)
+### [WIP] Anomaly Report-EXP
+This is a sample Anomaly Report I wrote about a fictional space program called the Europa Exploration Program (EXP). It details an anomaly scenario with an executive summary, project background, and timeline of the anomaly. (All the details in this report are fictional.) **(Note that this is a work-in-progress, but the draft is complete.)**
 
 ### College Composition Teaching Presentations
 These are presentations I used while teaching college composition at San Jacinto College.
