@@ -7,9 +7,6 @@ These are presentations I used while teaching college composition at San Jacinto
 ### Master's Project
 This is the final project I wrote for my Master's degree in Literature at the University of Houston - Clear Lake. 
 
-### Resume
-A current copy of my resume.
-
 ### Sample Anomaly Report
 This is a sample Anomaly Report I wrote about a fictional space program called the Europa Exploration Program (EXP). It details an anomaly scenario with an executive summary, project background, and timeline of the anomaly. **All the details in this report are fictional.** 
 
